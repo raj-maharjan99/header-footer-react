@@ -1,7 +1,7 @@
 import "./footer.css";
 
 function Footer() {
-  return <div className="footer">This is the end</div>;
+  return <div className="footer">yo nai antya ho</div>;
 }
 
 export default Footer;

@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <div className="raj">Hello App</div>
+      <div className="raj">Headache</div>
       <Footer />
     </>
   );
